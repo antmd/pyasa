@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: pyasa
+Version: 0.4
+Summary: Adaptive Simulated Annealing
+Home-page: http://launchpad.net/pyasa
+Author: Robert Jordens
+Author-email: jordens@gmail.com
+License: modified BSD
+Description: Python bindings for the ASA code from 
+            http://www.ingber.com/#ASA
+Platform: UNKNOWN
